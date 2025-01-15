@@ -6,5 +6,3 @@ This repository contains a Flask-based REST API for making predictions using a p
 - Handles POST requests at the `/predict` endpoint.
 - Loads a pre-trained model and column names from `.pkl` files.
 - Returns predictions in JSON format.
-
-## File Structure
